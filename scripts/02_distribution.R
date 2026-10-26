@@ -65,8 +65,7 @@ p <- ggplot(hist_df) +
                       " a year or less; the top tenth make ", rs(p90), " or more"),
        x = "Annual earnings (rupees, log scale)",
        y = "Density per log10 unit",
-       caption = paste0("Source: PSLM 2019-20 person and household files. Sample: earners aged 15-64 with earnings > 0 in rural Khyber Pakhtunkhwa (KP) (n = ",
-                        format(n_earners, big.mark = ","), ").\n",
+       caption = paste0("Source: PSLM 2019-20 person and household files.\nSample: earners aged 15-64 with earnings > 0 in rural Khyber Pakhtunkhwa (KP) (n = ",                        format(n_earners, big.mark = ","), ").\n",
                         "Weighted by household weight (hhweight). ", n_excluded,
                         " earners outside Rs 10,000 - Rs 10,000,000 are excluded from the histogram.")) +
   theme_minimal(base_size = 12) +
