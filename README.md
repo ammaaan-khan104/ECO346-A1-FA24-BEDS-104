@@ -1,6 +1,6 @@
 # ECO346 Assignment 1, Fall 2026: Earnings of rural Khyber Pakhtunkhwa's workers
 
-**Student:** FA24-BEDS-104 (Section A) | **Course:** Data Visualization Techniques for Economists, COMSATS University Islamabad, Lahore Campus
+**Student:** Aman Khan, FA24-BEDS-104 (Section A) | **Course:** Data Visualization Techniques for Economists, COMSATS University Islamabad, Lahore Campus
 
 ## My variant
 
